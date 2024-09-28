@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @pmhalvor
-- 👀 I’m interested in data science, natural language processing, and cloud services
-- 🌱 I’m currently learning pytorch, kubernetes, and web-development 
-- 💞️ I’m looking to collaborate on api development, kaggle competitions, and blog posts
-- 📫 How to reach me pmchalvorsen@gmail.com
+- 👀 I’m interested in data science, deep learning, and cloud services
+- 🌱 I’m currently learning Beam, GCP, and digital signal processing 
+- 🫱🏻‍🫲🏾 I’m looking to collaborate on open-source tools that enable research institutes 
 
 <!---
 pmhalvor/pmhalvor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
