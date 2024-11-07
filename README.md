@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pmhalvor
-- 👀 I’m interested in data science, deep learning, and cloud services
+- 💼 I work with data science, deep learning, and cloud services
 - 🌱 I’m currently learning Beam, GCP, and digital signal processing 
 - 🫱🏻‍🫲🏾 I’m looking to collaborate on open-source tools that enable research institutes 
 
